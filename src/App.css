@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Oswald:wght@200;300;400;500;600;700&family=Rubik:wght@300;400;500;600;700;800&display=swap');
+
+.content {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.title {
+    font-family: 'Cinzel', serif;
+}
+
+.subtitle {
+    font-family: 'Rubik', sans-serif;
+}
